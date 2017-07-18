@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "desc": "今日特惠",
+      "checked": true,
+      "count": 1,
+      "cover": "https://m.360buyimg.com/mobilecms/jfs/t4438/288/4120880312/6787/cd3d3abb/5909ac04Nf135d13d.jpg!q70.jpg",
+      "id": 14,
+      "link": null,
+      "oldprice": "88",
+      "price": "66",
+      "sectype": 6,
+      "title": "生活娱乐",
+      "type": 2
+    },
+    {
+      "desc": "每日五折",
+      "checked": false,
+      "count": 3,
+      "cover": "https://m.360buyimg.com/mobilecms/jfs/t4762/126/2315434555/24150/3e5a16ed/58fd749aN081a36b6.jpg!q70.jpg",
+      "id": 13,
+      "link": null,
+      "oldprice": "88",
+      "price": "66",
+      "sectype": 5,
+      "title": "爱车生活",
+      "type": 2
+    }
+  ]
+}
